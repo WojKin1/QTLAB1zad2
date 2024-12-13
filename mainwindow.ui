@@ -247,7 +247,7 @@
      <string notr="true">background-color: black;</string>
     </property>
     <property name="text">
-     <string>colorPreview</string>
+     <string/>
     </property>
    </widget>
   </widget>
