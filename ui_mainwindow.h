@@ -149,11 +149,11 @@ public:
         radioThird->setText(QCoreApplication::translate("MainWindow", "trzeci", nullptr));
         colorPreview->setText(QCoreApplication::translate("MainWindow", "colorPreview", nullptr));
     } // retranslateUi
-
 };
 
 namespace Ui {
-    class MainWindow: public Ui_MainWindow {};
+class MainWindow : public Ui_MainWindow
+{};
 } // namespace Ui
 
 QT_END_NAMESPACE
